@@ -5,6 +5,8 @@ class A {
 	echo 'hello world';
 	echo 'hello world';
 
+	echo 'hello world';
+
 	}
 
 
